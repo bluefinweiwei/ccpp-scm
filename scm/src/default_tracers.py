@@ -13,5 +13,6 @@ default_tracers = {"SCM_GFS_v15p2":"tracers_GFS_v15p2.txt",
                    "SCM_GFS_v15p2_ACM":"tracers_GFS_v15p2.txt",
                    "HAFS_v0_hwrf":"tracers_HAFS_v0_hwrf.txt",
                    "HAFS_v0_hwrf_thompson":"tracers_HAFS_v0_hwrf_thompson.txt",
-                   "SCM_RRFS_v1alpha":"tracers_RRFS_v1alpha.txt"
+                   "SCM_RRFS_v1alpha":"tracers_RRFS_v1alpha.txt",
+                   "SCM_GFS_p7c":"tracers_GFS_p7c.txt"
                   }
