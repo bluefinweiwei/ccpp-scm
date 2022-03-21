@@ -280,6 +280,8 @@ class Experiment(object):
                 nc_fid.close()
                 if (surfaceForcing.lower() == 'flux' or surfaceForcing.lower() == 'surfaceflux'):
                     surface_flux_spec = True
+                if (surfaceForcing.lower() == 'ts'):
+                    surface_flux_spec = False
         except KeyError:
             # if not using DEPHY format, check to see if surface fluxes are specified in the case configuration file (default is False)
             try:
