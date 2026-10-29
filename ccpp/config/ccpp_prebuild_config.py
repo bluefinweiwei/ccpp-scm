@@ -194,7 +194,6 @@ SCHEME_FILES = [
     'ccpp/physics/physics/PBL/SHOC/shoc.F90',
     'ccpp/physics/physics/PBL/MYJ/myjpbl_wrapper.F90',
     'ccpp/physics/physics/PBL/MYNN_EDMF/mynnedmf_wrapper.F90',
-    'ccpp/physics/physics/PBL/MYNN_EDMF/mynnedmf_wrapper_post.F90',
     'ccpp/physics/physics/PBL/SATMEDMF/satmedmfvdif.F',
     'ccpp/physics/physics/PBL/SATMEDMF/satmedmfvdifq.F',
     'ccpp/physics/physics/PBL/SATMEDMF/canopy_driver.F',
